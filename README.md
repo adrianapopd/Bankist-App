@@ -11,4 +11,4 @@ Future improvments: I am curently working on implementing the time counting for 
 Here are some SCREENSHOTS to see features of my project and my code: 
 ![SCREENSHOT1](./bankistapp1.png)
 ![SCREENSHOT2](./bankistapp2.png)
-![SCREENSHOT3](./bankistapp3.png)
+![SCREENSHOT3](./bankistappp3.png)
