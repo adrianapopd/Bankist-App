@@ -8,7 +8,7 @@ The summary contains the deposits (IN), withdrawals (OUT) and INTEREST (the amou
 
 Future improvments: I am curently working on implementing the time counting for how much you can stay loged in. 
 
-Here are some SCREENSHOTS to see efatures of my project and my code: 
+Here are some SCREENSHOTS to see features of my project and my code: 
 ![SCREENSHOT1](./bankistapp1.png)
 ![SCREENSHOT2](./bankistapp2.png)
 ![SCREENSHOT3](./bankistapp3.png)
