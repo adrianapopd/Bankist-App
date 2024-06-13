@@ -7,3 +7,8 @@ You can SORT the movements in an ascending order.
 The summary contains the deposits (IN), withdrawals (OUT) and INTEREST (the amount of money bank offers for your deposits). 
 
 Future improvments: I am curently working on implementing the time counting for how much you can stay loged in. 
+
+Here are some SCREENSHOTS to see efatures of my project and my code: 
+![SCREENSHOT1](./bankistapp1.png)
+![SCREENSHOT2](./bankistapp2.png)
+![SCREENSHOT3](./bankistapp3.png)
