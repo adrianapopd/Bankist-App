@@ -5,4 +5,4 @@ A  possible real bank application model. <br>
 -Google Fonts Api, Font Awesome Library. <br>
 -Modern array methods: sort, reduce, filter, some, find, map, flatMap
 Checkout some screenshots of my project: 
-![screenshot]()
+![screenshot](https://github.com/adrianapopd/Bankist-App/blob/main/bankist1.png)
