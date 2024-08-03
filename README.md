@@ -4,5 +4,7 @@ A  possible real bank application model. <br>
 -Timers (setTimeout). <br>
 -Google Fonts Api, Font Awesome Library. <br>
 -Modern array methods: sort, reduce, filter, some, find, map, flatMap
-Checkout some screenshots of my project: 
+-Modern CSS: grid, flexbox and animations
+Checkout some screenshots of my project: <br>
 ![screenshot](https://github.com/adrianapopd/Bankist-App/blob/main/bankist1.png)
+![screenshot](https://github.com/adrianapopd/Bankist-App/blob/main/bankist2.png)
