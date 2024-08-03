@@ -1,5 +1,5 @@
 # Bankist-App
-A  possible real bank application model. 
+A  possible real bank application model. <br>
 -Using Internationalization API based on lacals. <br>
 -Timers (setTimeout). <br>
 -Google Fonts Api, Font Awesome Library. <br>
